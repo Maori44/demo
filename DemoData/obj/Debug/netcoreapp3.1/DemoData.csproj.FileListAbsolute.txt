@@ -1,0 +1,28 @@
+D:\Demo\DemoApi\DemoData\bin\Debug\netcoreapp3.1\DemoData.deps.json
+D:\Demo\DemoApi\DemoData\bin\Debug\netcoreapp3.1\DemoData.dll
+D:\Demo\DemoApi\DemoData\bin\Debug\netcoreapp3.1\DemoData.pdb
+D:\Demo\DemoApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.csprojAssemblyReference.cache
+D:\Demo\DemoApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.AssemblyInfoInputs.cache
+D:\Demo\DemoApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.AssemblyInfo.cs
+D:\Demo\DemoApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.csproj.CoreCompileInputs.cache
+D:\Demo\DemoApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.dll
+D:\Demo\DemoApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.pdb
+D:\Demo\TollPlazaApi\DemoData\bin\Debug\netcoreapp3.1\DemoData.deps.json
+D:\Demo\TollPlazaApi\DemoData\bin\Debug\netcoreapp3.1\DemoData.dll
+D:\Demo\TollPlazaApi\DemoData\bin\Debug\netcoreapp3.1\DemoData.pdb
+D:\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.csprojAssemblyReference.cache
+D:\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.AssemblyInfoInputs.cache
+D:\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.AssemblyInfo.cs
+D:\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.csproj.CoreCompileInputs.cache
+D:\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.dll
+D:\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.pdb
+D:\Angular Ref Application\Demo\TollPlazaApi\DemoData\bin\Debug\netcoreapp3.1\DemoData.deps.json
+D:\Angular Ref Application\Demo\TollPlazaApi\DemoData\bin\Debug\netcoreapp3.1\DemoData.dll
+D:\Angular Ref Application\Demo\TollPlazaApi\DemoData\bin\Debug\netcoreapp3.1\DemoData.pdb
+D:\Angular Ref Application\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.csprojAssemblyReference.cache
+D:\Angular Ref Application\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Ref Application\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.AssemblyInfoInputs.cache
+D:\Angular Ref Application\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.AssemblyInfo.cs
+D:\Angular Ref Application\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.csproj.CoreCompileInputs.cache
+D:\Angular Ref Application\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.dll
+D:\Angular Ref Application\Demo\TollPlazaApi\DemoData\obj\Debug\netcoreapp3.1\DemoData.pdb
